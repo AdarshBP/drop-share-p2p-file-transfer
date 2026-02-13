@@ -1,13 +1,13 @@
-# DropShare
+# DropBeam
 
-https://dropshare.netlify.app
+https://dropbeam.netlify.app
 
 
 
 
 Lightweight peer-to-peer file sharing (WebRTC data channel) with a simple UI.
 
-This repository contains DropShare — a small app that uses PeerJS for direct P2P file transfers. The UI is built with Tailwind utilities and supports chunked transfers, progress, "Send All" functionality
+This repository contains DropBeam — a small app that uses PeerJS for direct P2P file transfers. The UI is built with Tailwind utilities and supports chunked transfers, progress, "Send All" functionality
 
 ## Features
 - Peer-to-peer file transfers using PeerJS (chunked uploads + ACKs)
@@ -69,4 +69,4 @@ npm run preview
 
 
 
-DropShare — quick, private, browser-to-browser file sharing.
+DropBeam — quick, private, browser-to-browser file sharing.
