@@ -16,8 +16,8 @@ export default function Navigation({ onThemeToggle, onSettings, onReload, themeL
         <div className="flex items-center justify-between h-16">
           {/* Logo and Brand */}
           <Link to="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
-            <img src="/logo.svg" alt="DropShare Logo" className="w-10 h-10" />
-            <h1 className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">DropShare</h1>
+            <img src="/logo.svg" alt="DropBeam Logo" className="w-10 h-10" />
+            <h1 className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">DropBeam</h1>
           </Link>
 
           {/* Navigation Links */}

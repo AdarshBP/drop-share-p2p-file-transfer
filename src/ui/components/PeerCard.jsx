@@ -48,8 +48,8 @@ export default function PeerCard({ peerId, onCopy, connStatus, debug, remoteDevi
     if (navigator.share) {
       try {
         await navigator.share({
-          title: 'DropShare - Connect with me',
-          text: `Connect with me on DropShare to share files! My Peer ID: ${peerId}`,
+          title: 'DropBeam - Connect with me',
+          text: `Connect with me on DropBeam to share files! My Peer ID: ${peerId}`,
           url: url
         })
         const event = new CustomEvent('toast', { detail: { msg: '✅ Shared successfully!', type: 'success' } })

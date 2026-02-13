@@ -8,8 +8,8 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'DropShare',
-        short_name: 'DropShare',
+        name: 'DropBeam',
+        short_name: 'DropBeam',
         start_url: '.',
         display: 'standalone',
         background_color: '#ffffff',

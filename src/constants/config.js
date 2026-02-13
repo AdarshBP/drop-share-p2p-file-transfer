@@ -5,7 +5,7 @@ export const HEARTBEAT_FAILURE_THRESHOLD = 2;
 // Contact page profile and links
 export const CONTACT_PROFILE = {
   name: 'Adarsh',
-  title: 'Developer of DropShare',
+  title: 'Developer of DropBeam',
   subtitle: 'Full Stack Developer',
   photo: 'https://github.com/AdarshBP.png',
   photoAlt: 'Adarsh profile photo',

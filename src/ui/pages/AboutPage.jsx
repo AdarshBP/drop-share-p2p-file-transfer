@@ -8,13 +8,13 @@ export default function AboutPage() {
         {/* Logo */}
         <img
           src="/logo.svg"
-          alt="DropShare Logo"
+          alt="DropBeam Logo"
           className="w-18 h-18"
         />
 
         {/* Text */}
         <div>
-          <h1 className="text-5xl font-bold text-[var(--text)]">DropShare</h1>
+          <h1 className="text-5xl font-bold text-[var(--text)]">DropBeam</h1>
           <p className="text-xl text-[var(--muted)]">
             File transfer as it should be
           </p>
@@ -122,9 +122,9 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Why DropShare */}
+      {/* Why DropBeam */}
       <section className="space-y-8">
-        <h2 className="text-3xl font-bold text-[var(--text)]">Why DropShare?</h2>
+        <h2 className="text-3xl font-bold text-[var(--text)]">Why DropBeam?</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           <div className="space-y-3">
             <div className="text-4xl">🔐</div>
